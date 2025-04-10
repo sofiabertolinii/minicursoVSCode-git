@@ -23,6 +23,8 @@ Vai ficar assim:
 
 > minicursovscode-git
     exemplo1.txt
+    exemplo2.txt
+    exemplo3.txt
     README.md
     > atividade avaliativa
         > seu nome completo
