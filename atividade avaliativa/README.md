@@ -14,7 +14,7 @@ Esses dois números de entrada devem ser argumentos de linha de comando, por exe
 
 A entrega é até o dia 20/04 (domingo) e contará para a certificação. O envio será feito por meio de um pull request para o /main do repositório.
 
-> Nome da pasta: nome completo do aluno
+> Nome da pasta: nome completo do aluno - avaliação
 A pasta deverá conter o arquivo da atividade.
 
 > Nome do arquivo: nome_sobrenome.c ou nome_sobrenome.py
@@ -28,7 +28,7 @@ Vai ficar assim:
     README.md
     > atividade avaliativa
         README.md
-        > seu nome completo
+        >nome_sobrenome_avaliacao
             > nome_sobrenome.c ou .py
 
 - Quaisquer dúvidas, favor enviar um email para samuel.steffler@acad.ufsm.br.
