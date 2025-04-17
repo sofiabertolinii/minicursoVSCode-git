@@ -1,12 +1,5 @@
 #include<stdio.h>
 
-/*
-    a soma
-a diferença entre o maior e o menor
-a média
-e o resto da divisão entre o maior e o menor.
-*/
-
 int n1, n2;
 int dif;
 
